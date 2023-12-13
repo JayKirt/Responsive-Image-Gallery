@@ -4,6 +4,6 @@
 
 <ul> 
   <li> Flexbox positioning. ✔️  </li>
-  <li> Transforms and Transitions. ✔️  </li>
+  <li> Transforms and Transitions.✔️  </li>
   <li> px, em, rem, %, vh and vw understanding.✔️  </li>
 </ul>
